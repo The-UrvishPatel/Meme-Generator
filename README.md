@@ -1,3 +1,16 @@
+# Meme Generator
+
+# Authors
+
+- [@Urvish Patel](https://github.com/The-UrvishPatel)
+
+
+# Preview
+
+- [Create Memes - Urvish Patel](https://the-urvishpatel.github.io/Meme-Generator/)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
